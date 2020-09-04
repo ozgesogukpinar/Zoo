@@ -7,4 +7,4 @@ While developing this project, Abstract Factory Pattern was used to provide the 
 
 The number of animals in the playground after 1000 units of action is shown below. Because of the large playground, the birth of new animals and hunting events are rare. In order to fully see these events, the playing field should be minimized.
 
-<img src="output.png"
+<img src="output.PNG"
